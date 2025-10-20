@@ -1,6 +1,6 @@
 # 2025 Lange Symposium on Computational Statistics
 
-### <span style="color:red">_Check back later for information on the 2026 Lange Symposium_</span>
+### <span style="color:red">_For information on the next Lange Symposium,_</span> [click here](https://langesymposium.github.io/Lange-Symposium/)
 
 ## January 27, 2025 at UCLA
 
